@@ -35,7 +35,7 @@ ________________________________________________
 Nesse desafio eu fiz duas análises a primeira sobre Diabetes e a segunda sobre Finanças.
 
 
-#### ANÁLISE 1 -  TRABALHANDO COM DATASETS SOBRE DIABETES
+## ANÁLISE 1 -  TRABALHANDO COM DATASETS SOBRE DIABETES
 
 Extraído da plataforma de datsets gratuitos chamda Kaggle 
 
@@ -83,7 +83,7 @@ eXISTE UMA coisa chamda dica de ferramenta, que serve para quando eu quero coloc
 
 
 
-#### ANÁLISE 2 - TRABALAHNDO COM DATASET DE FINANCIALS 
+## ANÁLISE 2 - TRABALAHNDO COM DATASET DE FINANCIALS 
 
 
 OBTENDO DATASETS COM POWERBI SAMPLES
@@ -91,6 +91,11 @@ OBTENDO DATASETS COM POWERBI SAMPLES
 Dentro do proprio PowerBI >> Inicio >> Experimentare conjunto de base de daodos >> Ele retorna algum datasr nesse caso foi uma Sample denomina de "Faniancials". 
 
 
+
+
+# Página 2 do Relatório Financial
+
+Trabalharemos com visual de países
 
 
 
