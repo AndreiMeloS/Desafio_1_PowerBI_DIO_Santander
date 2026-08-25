@@ -61,8 +61,6 @@ Após o ajuste, os dados foram novamente carregados no **Power Query**, solucion
 
 # 📊 2. Construção dos Visuais
 
-# 📊 2. Construção dos Visuais
-
 Na construção do relatório foram utilizados recursos como:
 
 - Formas;
